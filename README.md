@@ -1,9 +1,8 @@
 ## Hey, Dani here! 👋
 
 * Senior Backend Engineer at [@hellofresh](https://github.com/hellofresh)
-* Writing Go and PHP for a living
-* Interested in Rust, Kotlin and functional programming
-* Mainly working on [`eventually-rs`](https://github.com/ar3s3ru/eventually-rs), Event Sourcing library for Rust
+* Writing Go, PHP and some Kotlin for a living
+* Interested in Rust and functional programming, Event Sourcing and Domain-driven Design
 * Open to mentoring and pair-programming, or cool opportunities involving novel technologies (e.g. Rust, Event Sourcing, Functional Programming 👀)
 
 </br>
