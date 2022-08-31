@@ -1,8 +1,7 @@
 ## Hey, Dani here! 👋
 
-* Senior Backend Engineer at [@hellofresh](https://github.com/hellofresh)
-* Writing Go, PHP and some Kotlin for a living
-* Interested in Rust and functional programming, Event Sourcing and Domain-driven Design
+* Senior Tech Lead at [Chronomics](https://www.chronomics.com/careers/)
+* Interested in Go, Rust, Functional Programming, Event Sourcing and Domain-driven Design
 * Open to mentoring and pair-programming, or cool opportunities involving novel technologies (e.g. Rust, Event Sourcing, Functional Programming 👀)
 
 </br>
